@@ -1,0 +1,6 @@
+{
+  "name": "SkillExchange",
+  "description": "Automated Peer-to-Peer Skill Exchange: Connect, learn, and exchange valuable skills through smart AI matching with 3D Holographic Globe and interactive network mesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
