@@ -1,3 +1,5 @@
+![App Screenshot](./Screenshot%202026-10-03%20214747.png)
+
 # Skill Exchange System 🔄
 
 A web platform built with C# and .NET that enables peer-to-peer skill sharing, allowing users to learn, exchange expertise, and collaborate efficiently.
